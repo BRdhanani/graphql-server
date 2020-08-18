@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "john doe",
+      "email": "john@yopmail.com",
+      "age": 25
+    },
+    {
+      "id": "2",
+      "name": "john",
+      "email": "chrish@yopmail.com",
+      "age": 34
+    },
+    {
+      "name": "jean",
+      "email": "jean@yopmail.com",
+      "age": 44,
+      "id": "doNygB8"
+    }
+  ]
+}
